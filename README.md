@@ -11,8 +11,8 @@ You’ll explore how defenders identify threats, respond to attacks, and gather 
 | Topic Name                    | Status         | Link                                                                      |
 |-------------------------------|----------------|---------------------------------------------------------------------------|
 | Defensive Security Intro      | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Defensive-Security-Intro)   |
-| SOC Fundamentals              | 🟡 In Progress | [View Write-Up]()                   |
-| Digital Forensics Fundamentals| ❌ Not Started | [View Write-Up]()     |
+| SOC Fundamentals              | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/SOC-Fundamentals/)          |
+| Digital Forensics Fundamentals| 🟡 In Progress | [View Write-Up]()     |
 | Incident Response Fundamentals| ❌ Not Started | [View Write-Up]()     |
 | Logs Fundamentals             | ❌ Not Started | [View Write-Up]()                  |
 
@@ -25,8 +25,8 @@ You’ll explore how defenders identify threats, respond to attacks, and gather 
 - Explored core concepts like threat intelligence, malware analysis, digital forensics, and the role of a SOC team.
 
 ### 👥 SOC Fundamentals  
-- coming soon...
-- coming soon...
+- Learned how SOC teams operate, including alert triage, escalation workflows, and roles from L1 Analyst to SOC Manager.  
+- Explored how tools like SIEM, EDR, and firewalls work together in detecting and responding to threats in real-world environments. 
 
 ### 🔍 Digital Forensics Fundamentals  
 - coming soon...
