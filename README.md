@@ -14,7 +14,7 @@ You’ll explore how defenders identify threats, respond to attacks, and gather 
 | SOC Fundamentals              | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/SOC-Fundamentals/)               |
 | Digital Forensics Fundamentals| ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Digital-Forensics-Fundamentals/) |
 | Incident Response Fundamentals| ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Incident-Response-Fundamentals/) |
-| Logs Fundamentals             | 🟡 In Progress | [View Write-Up]()                  |
+| Logs Fundamentals             | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Logs-Fundamentals/)              |
 
 ---
 
@@ -37,5 +37,5 @@ You’ll explore how defenders identify threats, respond to attacks, and gather 
 - Investigated a phishing attack in a hands-on lab, focusing on detection, containment, and applying real-world incident handling techniques.
 
 ### 📜 Logs Fundamentals  
-- coming soon...
-- coming soon...
+- Learned how logs serve as crucial evidence in cyber investigations, from login records to web server access details.  
+- Explored how to read and filter logs using tools like Event Viewer and `grep`, and saw how they reveal attacker behaviour and system events. 
