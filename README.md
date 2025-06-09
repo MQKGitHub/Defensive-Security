@@ -10,10 +10,10 @@ You’ll explore how defenders identify threats, respond to attacks, and gather 
 
 | Topic Name                    | Status         | Link                                                                      |
 |-------------------------------|----------------|---------------------------------------------------------------------------|
-| Defensive Security Intro      | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Defensive-Security-Intro)   |
-| SOC Fundamentals              | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/SOC-Fundamentals/)          |
-| Digital Forensics Fundamentals| 🟡 In Progress | [View Write-Up]()     |
-| Incident Response Fundamentals| ❌ Not Started | [View Write-Up]()     |
+| Defensive Security Intro      | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Defensive-Security-Intro)        |
+| SOC Fundamentals              | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/SOC-Fundamentals/)               |
+| Digital Forensics Fundamentals| ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Digital-Forensics-Fundamentals/) |
+| Incident Response Fundamentals| 🟡 In Progress | [View Write-Up]()     |
 | Logs Fundamentals             | ❌ Not Started | [View Write-Up]()                  |
 
 ---
@@ -29,8 +29,8 @@ You’ll explore how defenders identify threats, respond to attacks, and gather 
 - Explored how tools like SIEM, EDR, and firewalls work together in detecting and responding to threats in real-world environments. 
 
 ### 🔍 Digital Forensics Fundamentals  
-- coming soon...
-- coming soon...
+- Learned the four key phases of digital forensics (Collection, Examination, Analysis, Reporting) using tools like Autopsy and Volatility.  
+- Practised reading metadata, analysing disk and memory images, and preserving evidence integrity with write blockers and chain of custody principles.
 
 ### 🚨 Incident Response Fundamentals  
 - coming soon...
