@@ -13,8 +13,8 @@ You’ll explore how defenders identify threats, respond to attacks, and gather 
 | Defensive Security Intro      | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Defensive-Security-Intro)        |
 | SOC Fundamentals              | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/SOC-Fundamentals/)               |
 | Digital Forensics Fundamentals| ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Digital-Forensics-Fundamentals/) |
-| Incident Response Fundamentals| 🟡 In Progress | [View Write-Up]()     |
-| Logs Fundamentals             | ❌ Not Started | [View Write-Up]()                  |
+| Incident Response Fundamentals| ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Incident-Response-Fundamentals/) |
+| Logs Fundamentals             | 🟡 In Progress | [View Write-Up]()                  |
 
 ---
 
@@ -33,8 +33,8 @@ You’ll explore how defenders identify threats, respond to attacks, and gather 
 - Practised reading metadata, analysing disk and memory images, and preserving evidence integrity with write blockers and chain of custody principles.
 
 ### 🚨 Incident Response Fundamentals  
-- coming soon...
-- coming soon...
+- Explored the full lifecycle of responding to a security incident using industry frameworks like SANS PICERL and NIST.  
+- Investigated a phishing attack in a hands-on lab, focusing on detection, containment, and applying real-world incident handling techniques.
 
 ### 📜 Logs Fundamentals  
 - coming soon...
